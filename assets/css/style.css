@@ -128,7 +128,6 @@ header .container {
 
 
 /* Portfolio Page */
-/* I got help from reddit on this one with the cool animations */
 .portfolio-item {
 	display: inline-block;
 	position: relative;
@@ -156,7 +155,6 @@ header .container {
 }
 
 /* Contact Page */
-/* again, thank reddit for helping me ape this code, I hope to understand those text fields someday soon */
 .contact {
 	width: 540px;
 }
